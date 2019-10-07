@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NireLehenAPP</string>
+    <string name="boton_IMC">Ikusi Bersida</string>
+    <string name="SinDatos">Sin Datos.</string>
+    <string name="Desnutrido"><![CDATA[Desnutrido -->]]></string>
+    <string name="Ideal"><![CDATA[Ideal/Normal -->]]></string>
+    <string name="Delgado"><![CDATA[Delgado -->]]></string>
+    <string name="Obesidad"><![CDATA[Obesidad -->]]></string>
+    <string name="Sobrepeso"><![CDATA[Sobrepeso -->]]></string>
+    <string name="IndicaIMC">Tu Indice de Masa Corporal es :</string>
+    <string name="IntroduceEstatura">Introduce tu Estatura (cmts)</string>
+    <string name="IntroducePeso">Introduce tu Peso (Kgrs)</string>
+    <string name="Limpiar">Limpiar</string>
+</resources>

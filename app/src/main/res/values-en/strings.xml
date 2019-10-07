@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyIMCEnglish</string>
+    <string name="boton_IMC">Calc Your IMC</string>
+    <string name="SinDatos">Without Data.</string>
+    <string name="Desnutrido"><![CDATA[Famelish -->]]></string>
+    <string name="Ideal"><![CDATA[Normaly -->]]></string>
+    <string name="Delgado"><![CDATA[THIN -->]]></string>
+    <string name="Obesidad">TooFat —&gt;</string>
+    <string name="Sobrepeso">Fat —&gt;</string>
+    <string name="IndicaIMC">You IMC is :</string>
+    <string name="IntroduceEstatura">Please, Intro your Tall (cmts)</string>
+    <string name="IntroducePeso">Write your pounds in Kgrs</string>
+    <string name="Limpiar">Clear</string>
+</resources>
