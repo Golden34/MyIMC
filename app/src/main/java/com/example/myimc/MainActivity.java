@@ -111,13 +111,11 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.info:
                 Log.d("MIAPP", "Menu salir");
-                break;
+
                 // Ir a la otra actividad via Intent
-                finish();
-                Intent intent = new Intent(this,);
+                this.finish();
+                Intent intent = new Intent(this,activity_imagen.class);
                 startActivity(intent);
-
-
 
                 break;
         }
